@@ -26,7 +26,7 @@ int findPattern(string text, string pattern) {
    // Pattern was not found
     return -1;
 }
-
+ //This is a new comment 
 int main() {
     // Test Case 1: Pattern at the beginning
     string text1 = "hello My name is Sami Ullah";
