@@ -13,7 +13,7 @@ vector<int> findAllIndices(int arr[], int size, int key) {
     }
     return indices;  
 }
-
+ //This is a new comment
 int main() {
 
     // Test Case 1: Multiple occurrences
